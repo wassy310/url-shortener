@@ -9,3 +9,6 @@ python app.py
 
 ## 参考  
 [Pythonでpyshortenersを使用し短縮URLを生成する, Men of Letters (メン・オブ・レターズ) - 論理的思考/業務改善/プログラミング](https://laboratory.kazuuu.net/generating-shortened-urls-in-python-using-pyshorteners/)
+
+## license
+web-voca is under MIT-license [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
